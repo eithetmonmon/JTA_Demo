@@ -1,0 +1,7 @@
+com\may\phyo\service\StudentService.class
+com\may\phyo\configuration\JtaConfiguration.class
+com\may\phyo\db\address\ds\Address.class
+com\may\phyo\db\student\dao\StudentDao.class
+com\may\phyo\db\student\ds\Student.class
+com\may\phyo\configuration\StudentDbConfiguration.class
+com\may\phyo\db\address\dao\AddressDao.class
